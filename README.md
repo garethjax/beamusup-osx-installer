@@ -201,6 +201,8 @@ The app should now appear with the custom icon in Finder, Spotlight, and the Doc
 
 ## 🙌 Credits
 
-Thanks to **ChatGPT-4o** for assisting with command cleanup, Java packaging, and compatibility clarification.
+- Author: [Andrea Scarpetta](https://www.andreascarpetta.com) - Tecnical SEO & Ai Evangelist (2025)
+- Thanks to **ChatGPT-4o** for assisting with command cleanup, Java packaging, and compatibility clarification.
+
 
 ---
